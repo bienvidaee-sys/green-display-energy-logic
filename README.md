@@ -1,4 +1,4 @@
-# green-display-energy-logic
+omputing# green-display-energy-logic
 Open-Source Energy saving logic for public displays. A sensor-based approach to replace 24hrs consumption and save energy
 
 
