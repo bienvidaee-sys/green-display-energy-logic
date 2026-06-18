@@ -1,0 +1,1 @@
+[Conceptual logic diagram comparing an intelligent sensor-driven display (showing dynamic activation based on motion detection, linked to 60% savings) versus a traditional static always-on system (showing continuous 24/7 operation and constant waste)](Conceptual%20Logic%20Diagram.png)
