@@ -16,6 +16,6 @@ A plug-and-play intermediary device with a passive motion sensor control logic:
 
 ## 📊 Proven Impact
 Annual Cost Simulation (500W display, Taiwan pricing):
-- **Traditional:** 4,380 kWh / $15,330 TWD
-- **GreenMode:** 1,752 kWh / $6,132 TWD
-- **Total Saving:** **2,628 kWh / $9,198 TWD (60% Redution)**
+- **Traditional:** 4,380 kWh / $15,330 dollars
+- **GreenMode:** 1,752 kWh / $6,132 dollars
+- **Total Saving:** **2,628 kWh / $9,198 dollars (60% Redution)**
